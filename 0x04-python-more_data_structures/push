@@ -1,0 +1,4 @@
+chmod -R 777 .
+git add .
+git commit -m "Python more data structures"
+git push
